@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    background-color:rgba(8, 136, 151, 0.393)
+}
+#mot{
+text-align: right;
+}
+#hai{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(35, 35, 113);
+    margin-bottom: 5px;
+}
+#ba{
+    background-color: rgb(0, 95, 129);
+    text-align: center;
+    border: 2px solid dimgrey;
+    height: auto;
+    width: auto;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+#bon{
+    background-color: rgb(35, 35, 113);
+    border-radius: 50px;
+}
+#bamot{
+    padding: 20px;
+    margin-bottom: auto;
+}
